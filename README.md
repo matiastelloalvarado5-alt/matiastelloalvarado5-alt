@@ -29,7 +29,7 @@ Estudiante de Ingeniería en Sistemas.
 ## Contacto
 
 - LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- Correo: [tu-correo@email.com](mailto:matiastelloalvarado5@gmail.com)
+- Correo: [matiastelloalvarado5@gmail.com](mailto:matiastelloalvarado5@gmail.com)
 
 ---
 
